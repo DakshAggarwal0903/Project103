@@ -1,0 +1,16 @@
+.heading{
+    width: 80%;
+    font-size: 22px;
+}
+body{
+    color: white;
+    background-image:linear-gradient(rgb(0, 153, 255),rgb(255, 0, 255),rgb(0, 145, 84));
+}
+.b{
+    color:goldenrod
+}
+#camera{
+    border: 2px dashed black;
+    width: 350px;
+    height: 300px;
+}
